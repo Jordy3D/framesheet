@@ -3,6 +3,10 @@
 make a sheet of frames  
 yeah, that's it
 
+## Example
+
+<img src="https://github.com/Jordy3D/framesheet/assets/19144524/04f43807-cd79-43aa-aad3-51ddd825e611" width=400>
+
 ## Example Usage
 
 This script requires the path to the video file as a positional argument. You can also optionally specify the output path, and the number of rows and columns for the framesheet.
